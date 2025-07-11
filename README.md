@@ -6,7 +6,7 @@
 Implementação do jogo de xadrez.
 
 ## System Design
-![SystemDesign](assets/chess-system-design.PNG)
+![SystemDesign](assets/chess-system-design.png)
 
 # Tecnologias utilizadas
 ## Back end
